@@ -1,0 +1,13 @@
+# Email Sender Pro - Requirements
+# This application uses only Python built-in libraries
+# No external packages are required
+
+# Built-in libraries used:
+# - tkinter (GUI framework)
+# - smtplib (SMTP email sending)
+# - email.mime (Email message formatting)
+# - threading (Multi-threading support)
+# - re (Regular expressions for email validation)
+
+# Python version requirement
+# Python >= 3.6 
